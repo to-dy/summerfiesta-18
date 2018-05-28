@@ -1,0 +1,32 @@
+<svg width="612" height="1174" viewBox="0 0 612 1174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Group 5.4">
+<g id="Rectangle" transform="matrix(-1.4101 1.41831 1.4101 1.41831 450.587 -36)">
+<rect width="87.2294" height="232.191" rx="43.6147" fill="url(#paint0_linear)"/>
+<rect width="87.2294" height="232.191" rx="43.6147" fill="#FF1F00" fill-opacity="0.05"/>
+</g>
+<g id="Rectangle_2" transform="matrix(-1.4101 1.41831 1.4101 1.41831 87.0029 -5.63629)">
+<rect width="87.2294" height="490.033" rx="43.6147" fill="url(#paint1_linear)"/>
+<rect width="87.2294" height="490.033" rx="43.6147" fill="#FF1F00" fill-opacity="0.05"/>
+</g>
+<g id="Rectangle_3" transform="matrix(-1.4101 1.41831 1.4101 1.41831 87.0029 391.262)">
+<rect width="87.2294" height="490.033" rx="43.6147" fill="url(#paint2_linear)"/>
+<rect width="87.2294" height="490.033" rx="43.6147" fill="#FF1F00" fill-opacity="0.05"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 232.191 -87.2294 0 87.2294 0)">
+<stop stop-color="#FFA800"/>
+<stop offset="1" stop-color="#FF3D00"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 490.033 -87.2294 0 87.2294 0)">
+<stop stop-color="#FFA800"/>
+<stop offset="1" stop-color="#FF3D00"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 490.033 -87.2294 0 87.2294 0)">
+<stop stop-color="#FFA800"/>
+<stop offset="1" stop-color="#FF3D00"/>
+</linearGradient>
+</defs>
+</svg>
